@@ -1,0 +1,16 @@
+.border-bottom-bbc {
+    border-bottom: 1px solid rgba(18,18,18,0.2);
+}
+.border-top-bbc {
+    border-top: 1px solid rgba(18,18,18,0.2);
+}
+.bg-header {
+    background-color: #ffd230;
+}
+.card-h6-bold {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+.orb-footer, .orb-nav-sec .orb-footer-inner {
+    border-top: 1px solid #949494;
+}

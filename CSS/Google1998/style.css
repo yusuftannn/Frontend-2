@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.googleicon{
+    text-align: center;
+}
+.search {
+    text-align: center;
+    background-color:#009DAE;
+    height: 100%;
+}
+.search p {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 25px;
+}
+input {
+    margin: 3px;
+    padding: 3px;
+}
+.nav{
+    background-color: #71DFE7;
+    height: 100%;
+}
+.sol ul {
+    list-style: none;
+    padding-left: 40px;
+    float: left;
+    padding-top: 10px;
+    position: relative;
+    left: 100px;
+}
+.sol ul a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    position: relative;
+    top: 100px;
+}
+.orta ul {
+    list-style: none;
+    text-align: center;
+    position: relative;
+    right: 70px;
+    padding-top: 10px;
+}
+.orta ul a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 100px;
+}
+.sağ ul{
+    list-style: none;
+    text-align: right;
+    position: relative;
+    bottom: 10px;
+    right: 100px;
+}
+.sağ ul p{
+    color: black;
+    font-weight: bolder;
+}
+.sağ ul input {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+.footer{
+    background-color: #C2FFF9;
+    height: 100%;
+}

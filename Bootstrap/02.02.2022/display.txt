@@ -1,0 +1,18 @@
+hangi cihazlarda nasıl görünecek olacağını tasarlamak için kullanılır
+
+sm	small
+md	medium
+lg	large
+xl	xlarge
+
+d-none		hiçbir yerde gösterme
+d-md-block	medium da göster
+d-md-none	medium da gösterme
+
+
+//**************** col yapısı *************** \\
+
+col-sm-6     12/6	     small ekranlarda 2 kutu yan yana olsun
+col-md-4	   12/4      medium ekranlarda 3 kutu yan yana olsun
+col-lg-3	12/3               large ekranlarda 4 kutu yan yana olsun
+col-xl-2	12/2	   xlarge ekranlarda 4 kutu yan yana olsun

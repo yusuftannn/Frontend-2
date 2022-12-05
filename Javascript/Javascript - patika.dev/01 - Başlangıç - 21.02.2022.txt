@@ -1,0 +1,29 @@
+cmd yazdık
+
+node --version		-->> node.js in hangi versiyonu olduğu çıkar.
+node yazınca			-->> node.js i başlatır
+
+ctrl + d			-->> node.js i sonlandırır
+exit				-->> cmd yi kapar.
+
+---------------- SONRAKİ AŞAMA -------------------
+console.log("hello")		-->> yalnızca console da yazar
+alert("hello")			-->> bir uyarı penceresi gelir onun içinde yazar.
+document.write("hello")	-->> html sayfası içinde yazar her şeyi silip (browser da yazar)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+</head>
+<body>
+    <h1>FRONTEND EĞİTİM</h1>
+
+    <script>
+        console.log("hello world")		-->> browser da sağ tık incele içindeki console a yazar.
+    </script>
+</body>
+</html>

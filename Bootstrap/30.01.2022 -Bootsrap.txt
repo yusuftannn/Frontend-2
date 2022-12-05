@@ -1,0 +1,25 @@
+Container 	-->> yapısı sayfanın tam ortasında olup sağ ve solunda eşit boşluklar olur
+*bütün içeriklerin olduğu kısım
+
+grid ( ızgara ) sistemi 8, 12, 16 lı
+
+row ( Bulunduğu yerde 12lik (grid) ızgara sistemini oluşturmasını sağlar.  **bölündükten sonra 8 - 4 olarak mesela 8i tekrar 12 ye çevirir.)
+
+kolon ( 12liği oluşturan )
+
+
+960.gs 		-->> grid örnek sitesi
+
+	*******	COL yapısı       *******
+
+XS EKRANLARDA;	alt alta
+
+Small Ekranlarda;	ikiye bölünüp 6 ya 6 olarak
+
+Medium Ekranlarda;	3 e bölünüp 4 - 4 - 4 olarak
+
+Large Ekranlarda;	4 e bölünüp 3 - 3 - 3 olarak
+
+XL Ekranlarda;	6 ya bölünüp 2 - 2 - 2 olarak
+
+*** class ta kodu seçerek ctrl+d yaparsak aynı tüm kodları değiştirebiliriz

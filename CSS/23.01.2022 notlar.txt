@@ -1,0 +1,32 @@
+css awards -->> yazarak tasarımlara ulaşılabilinir.
+
+github a ekleme
+https://collabtr.com/visual-studio-code-github-kullanimi/
+
+
+head içindeki css bağlamak için link kodu kısa yolu;
+link:css	-->> yazarak oto getirir.
+
+li:nth-child(2n-1) {	-->> Liste de 1. 3. 5. satırdakilere 				uyguluyor
+	color: red;
+}
+
+li:nth-child(odd) {	-->> Liste de 1. 3. 5. satırdakilere 				uyguluyor
+	color: red;
+}
+
+li:nth-child(even) {	-->> Liste de 2. 4. 6. satırdakilere 				uyguluyor
+	color: red;
+}
+
+*** İki farklı kutu arasındaki mesafe	margin.
+*** Aynı kutu içerisindeki mesafe	padding.
+
+sadece margin: 10px;	--> üstten sağdan alttan soldan 10px kaydırır
+
+sadece margin-top: 10px;	--> üstten 10px kaydırır
+
+.clear {
+    clear: both;		--> kutunun solunu ve sağını 							temizler.
+}
+

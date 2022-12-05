@@ -1,0 +1,6 @@
+---------------   let   and   const   --------------- 
+
+let		-->> bilgiyi değiştireceksek kullanılır
+
+const		-->> sabit, kalıcı bilgiler için	(ör: 	tc kimlik , password vb. )
+		-->> bir kere tanımlanıyor 

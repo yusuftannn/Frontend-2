@@ -1,0 +1,23 @@
+/* class -->  .text-red {}      */
+/* id    -->  #id-bilgisi {}    */
+
+.googlefont{
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+#first-article{
+    font-size: 40px;
+}
+
+.text-red{
+    color:red;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-30{
+    font-size:30px;
+}

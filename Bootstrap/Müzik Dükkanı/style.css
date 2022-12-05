@@ -1,0 +1,29 @@
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+.navbar ul li a{
+    color: white;
+}
+.navbar ul li h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.jumbotron{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    background-color: #E9ECEF;
+}
+.btn{
+    padding: 3px;
+    background-color: aqua;
+    color: black;    
+}
